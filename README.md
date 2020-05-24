@@ -1,4 +1,4 @@
-npm install fs
+npm install fs;
 npm install jsonwebtoken
 
 node generate_jwt.js
